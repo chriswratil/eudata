@@ -24,6 +24,7 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [Policy Complexity in the European Union (EUPLEX)](https://www.euplex.org/data)
 
 #### European Council / Council
+- [Debates in teh Council of the European Union](https://doi.org/10.7910/DVN/JCT3F7)
 - [Political Attention in the Council of the European Union](https://doi.org/10.7910/DVN/VQRFLN)
 - [Political issue attention in European Council Conclusions 1975-2014](http://www.policyagendas.eu/)
 
@@ -58,3 +59,4 @@ Links should be directly to websites where data can be downloaded from, not to p
 - [National Parliaments in the European Union Dataset (NPdata)](https://doi.org/10.7910/DVN/1BARB6) 
 - [EUSSUE: Measuring issue attention in the European Union from daily news coverage](https://doi.org/10.7910/DVN/CXZAGB)
 - [European Union Sectoral Emissions Data (EUSED)](https://doi.org/10.7910/DVN/DW7Y5W)
+- [CMP-ParlGov Government Positions Data](https://wratil.eu/data)
